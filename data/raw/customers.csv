@@ -1,0 +1,6 @@
+customer_id,customer_name,region,status,updated_at
+1,Customer_1,East,Active,2024-06-01
+2,Customer_2,West,Inactive,2024-06-03
+3,Customer_3,North,Active,2024-06-05
+4,Customer_4,South,Active,2024-06-06
+5,Customer_5,East,Inactive,2024-06-07
